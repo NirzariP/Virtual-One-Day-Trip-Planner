@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.dark-select {
+  /* Base styles */
+  display: block;
+  width: 100%;
+  padding: 8px;
+  border: 2px solid #ccc; /* Adjust border color for better contrast */
+  border-radius: 4px;
+  background-color: #222; /* Dark background color */
+  color: #fff; /* Text color */
+  font-size: 16px;
+  cursor: pointer;
+  position: relative;
+}
+
+option {
+  background-color: #222;
+  color: white
+}
+
+.dark-select:hover {
+  /* Hover effect (optional) */
+  background-color: #333;
+}
+
+.dark-select select {
+  /* Hide the default select element */
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  /* cursor: pointer; */
+}
+
+/* Targeting the options within the dropdown list */
+.dark-select select option {
+  background-color: #222; /* Set option background to match container */
+  color: #fff; /* Set option text color */
+  padding: 5px 10px; /* Adjust padding for options */
+}
+
+.dark-select select option:hover {
+  /* Optional hover effect for options */
+  background-color: #333; /* Slight background change on hover */
+}
+

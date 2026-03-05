@@ -1,0 +1,24 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+*.pyo
+
+# Node
+frontend/node_modules/
+
+# Environment
+.venv
+*.venv
+
+# ML Models (large files)
+backend/data/
+backend/data/restaurant_recommendation_model.pkl
+
+# Build
+frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
