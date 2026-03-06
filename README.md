@@ -4,7 +4,7 @@ A full-stack web application that helps users plan a personalized one-day trip b
 
 ---
 
-## 📸 Screenshots
+## 📸 UI
 
 > Replace the placeholders below with actual screenshots of your app.
 
