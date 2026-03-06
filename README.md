@@ -14,16 +14,16 @@ A full-stack web application that helps users plan a personalized one-day trip b
     <td><b>Interest Selection</b></td>
   </tr>
   <tr>
-    <td><img src="./ui/home_page.jpeg" width="400"/></td>
-    <td><img src="./ui/interest_selection.jpeg" width="400"/></td>
+    <td><img src="./UI/home_page.jpeg" width="400"/></td>
+    <td><img src="./UI/interest_selection.jpeg" width="400"/></td>
   </tr>
   <tr>
     <td><b>Filters Page</b></td>
     <td><b>Trip Plans Page</b></td>
   </tr>
   <tr>
-    <td><img src="./ui/trip_plans.jpeg" width="400"/></td>
-    <td><img src="./ui/customizable_plan.jpeg" width="400"/></td>
+    <td><img src="./UI/trip_plans.jpeg" width="400"/></td>
+    <td><img src="./UI/customizable_plan.jpeg" width="400"/></td>
   </tr>
 </table>
 
